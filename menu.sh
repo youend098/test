@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOMAIN="belajar.karyna.my.id"  # Ganti dengan domain server kamu
+DOMAIN="Domain"  # Ganti dengan domain server kamu
 PORT="443"  # Port yang digunakan untuk Xray
 
 # Fungsi untuk melakukan speedtest
